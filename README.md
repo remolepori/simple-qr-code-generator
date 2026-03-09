@@ -1,3 +1,4 @@
+# Simple QR-Code Generator (Wordpress Plugin)
 
 ## Beschreibung
 Erstellt einen einfachen interaktiven QR-Code-Generator per Shortcode [qr-code].
