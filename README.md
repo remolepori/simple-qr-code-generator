@@ -1,7 +1,9 @@
-<h2>Simple QR-Code-Generator (Wordpress Plugin)</h2>
 
-<h4>Beschreibung:</h4>
+## Beschreibung
 Erstellt einen einfachen interaktiven QR-Code-Generator per Shortcode [qr-code].
 
-<h4>Shortcode:</h4>
+## Shortcode
 <code>[qr-code]</code>
+
+## Screenshot
+<img src="https://remo.me/wp-content/uploads/2026/03/qr-code-generator-1430x1536.png" style="width:500px"><img>
